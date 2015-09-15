@@ -1,2 +1,3 @@
 # NewWork
-first repo on GitHub
+#first repo on GitHub
+#Now that I'm in here, now what do I do?
